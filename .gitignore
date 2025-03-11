@@ -1,0 +1,10 @@
+# Archive files
+*.zip
+*.tar.gz
+
+# datafiles
+*.csv
+
+# Os generated files
+.DS_Store
+Thumbs.db
